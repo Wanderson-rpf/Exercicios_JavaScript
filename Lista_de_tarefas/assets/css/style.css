@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #87CEFA;
+}
+
+.container {
+    background-color: white;
+    max-width: 50%;
+    margin: 3rem auto;
+    font-family: 'Rubik', sans-serif;
+    line-height: 1.3rem;
+    padding: 1.5rem;
+    border-radius: 2rem;
+    text-align: center;
+}
+
+.input-tarefa {
+    line-height: 1.8rem;
+    width: 70%;
+}
+
+.btn {
+    margin: 1rem;
+}
+
+li {
+    text-align: left;
+}
