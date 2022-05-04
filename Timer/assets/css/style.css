@@ -31,4 +31,14 @@ body {
     margin: 0.2rem;
 }
 
+.iniciado {
+    color: #2E8B57;
+}
 
+.pausado {
+    color: red;
+}
+
+.zerado {
+    color: black;
+}
